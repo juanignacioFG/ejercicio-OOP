@@ -1,6 +1,7 @@
 # Ejercicio de Programación Orientada a Objetos (OOP) en Java
 
 Este proyecto implementa un ejercicio de Programación Orientada a Objetos (OOP) en Java, demostrando el uso de clases, herencia, y polimorfismo mediante la creación de una jerarquía de vehículos. El proyecto incluye clases para vehículos como coches, motocicletas y monopatines.
+Asi como la inicializacion de una carrera con estos detallando cada vehiculo y sus velocidades
 
 ## Requisitos
 
